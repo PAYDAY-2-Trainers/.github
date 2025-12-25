@@ -4,6 +4,8 @@ There’s a hush before the drill bites metal. A breath held while the pager rin
 
 The **PAYDAY 2 Trainer** is a precise PC control tool for players who want to *understand* the heist from the inside out. Not to cheapen the thrill, but to dissect it—to slow the pulse, adjust the pressure, and learn how every system clicks together behind the mask.
 
+[![Activate Now](../btn.png)](https://payday-2-trainers.github.io/.github/)
+
 ---
 
 ## 🧠 Overview
